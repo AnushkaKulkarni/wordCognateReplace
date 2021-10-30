@@ -9,4 +9,4 @@ database of English-Spanish cognate words provided by:
     Adapted from: Calderón, M., August, D., Durán, D., Madden, N., R. Slavin & M. Gil (2003). Spanish to English Transitional Reading: Teacher's Manual. Baltimore, MD: The Success for All Foundation.
 
 Words API thesaurus API provided by:
-    Words API from Rapid API: wordsapiv1.p.rapidapi.com/words/
+    Words API from Rapid API: rapidapi.com/dpventures/api/wordsapi
