@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title> Word Cognate Replace </title>
+    <style>
+        body
+        {
+          font-family: Verdana, sans-serif;
+          background-color: darkorange;
+          text-align: center;
+          color: white;
+        }
+        textarea
+        {
+            width: 300px;
+            height: 200px;
+        }
+    </style>
+{#    <link href="style.css" type="text/css" rel="stylesheet" />#}
+</head>
+
+<body>
+    <h1> Word Cognate Replace </h1>
+
+    <form action="/word_cognate/output/" method="post">
+        {% csrf_token %}
+        <label>Enter your text here: </label>
+        <br>
+        <textarea id="enter_text" name="original_text" type="text" maxlength="500"> </textarea>
+        <br>
+        <input type="submit" name="submit" value="Submit">
+    </form>
+
+    <p>Double-check your spelling before submitting!</p>
+</body>
+</html>
