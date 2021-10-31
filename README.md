@@ -1,6 +1,7 @@
 # wordCognateReplace
 this app replaces words with their cognate synonyms. it can help make material understandable for Spanish-speaking ELL speakers while avoiding direct translation. using cognates in this way helps facilitate language development.
 
+contact me @ ajk2256@barnard.edu if you have any questions or suggestions!
 
 credits:
 
