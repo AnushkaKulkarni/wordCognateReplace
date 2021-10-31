@@ -1,5 +1,7 @@
 # wordCognateReplace
-this app replaces words with their cognate synonyms. it can help make material understandable for Spanish-speaking ELL speakers while avoiding direct translation. using cognates in this way helps facilitate language development.
+this app replaces words with their cognate synonyms. it can help make material understandable for Spanish-speaking ELL speakers while avoiding direct translation. using cognates in this way helps facilitate language development. 
+
+i'm currently on working to add false cognate recognition and functionality to allow users to change back a cognate synonym to the original word if the cognate does not make sense in context.
 
 contact me @ ajk2256@barnard.edu if you want to use this code in a project or if you have any questions/suggestions!
 
