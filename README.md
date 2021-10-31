@@ -22,9 +22,11 @@ this python code creates two Django models: one to store Cognates and one to sto
 **credits:**
 
 database of English-Spanish cognate words provided by:
+
     colorincolorado word cognate list: www.colorincolorado.org/guide/cognate-list-english-and-spanish
     Adapted from: Calderón, M., August, D., Durán, D., Madden, N., R. Slavin & M. Gil (2003). Spanish to English Transitional Reading: Teacher's Manual. Baltimore, MD: The Success for All Foundation.
 
 Words API thesaurus API provided by:
+
     Words API from Rapid API: rapidapi.com/dpventures/api/wordsapi
     
