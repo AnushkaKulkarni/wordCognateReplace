@@ -27,3 +27,4 @@ database of English-Spanish cognate words provided by:
 
 Words API thesaurus API provided by:
     Words API from Rapid API: rapidapi.com/dpventures/api/wordsapi
+    
